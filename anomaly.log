@@ -37,7 +37,7 @@
 2023-11-15 22:18:16,797 - INFO: Anomaly Detected : {'id': 39, 'data': [[-2.087]], 'current_time': '2023-11-15T16:48:16.756473', 'score': [-0.799]}
 2023-11-15 22:18:16,958 - INFO: Anomaly Detected : {'id': 40, 'data': [[-2.308]], 'current_time': '2023-11-15T16:48:16.912418', 'score': [-0.799]}
 2023-11-15 22:18:17,111 - INFO: Anomaly Detected : {'id': 41, 'data': [[3.859]], 'current_time': '2023-11-15T16:48:17.067249', 'score': [-0.782]}
-2023-11-15 22:18:17,372 - WARNING: Model file not found
+
 2023-11-15 23:03:56,570 - INFO: Anomaly Detected : {'id': 0, 'data': [[-3.281]], 'current_time': '2023-11-15T17:33:56.503807', 'score': [-0.799]}
 2023-11-15 23:07:17,074 - INFO: Anomaly Detected : {'id': 1, 'data': [[-3.653]], 'current_time': '2023-11-15T17:37:16.840074', 'score': [-0.799]}
 2023-11-15 23:08:02,985 - INFO: Anomaly Detected : {'id': 4, 'data': [[-1.791]], 'current_time': '2023-11-15T17:38:02.796876', 'score': [-0.799]}
