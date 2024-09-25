@@ -1,9 +1,5 @@
 # Efficient Data Stream Anomaly Detection
 
-## Project Description:
-
-
-# Anomaly Detection Project
 
 ## Introduction
 
